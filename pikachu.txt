@@ -1,3 +1,7 @@
 Contenido de archivo
 Este es un cambio en el archivo
+<<<<<<< HEAD
 Generando error
+=======
+Hola, hola que tal. esta es la actividad 7
+>>>>>>> b7187ec27dde43f86589f7da26130a0ee08a151b
