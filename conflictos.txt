@@ -60,3 +60,5 @@ luego git log
 esos últimos comandos se utilizaron para asegurarnos de que esté todo bien.
 
 >>>>>>> 7807430b1dad09ae7e39be64c54d8230f510f76d
+En el archivo de squirtle.txt se dejo la opción "actual" en el archivo al momento de la resolución de problemas
+Para el archivo pikachu.txt se eligió la opción de "combinar" en la resolución de problemas
